@@ -9,7 +9,6 @@
   width: 100%;
   min-height: 100vh;
   background: linear-gradient(300deg, rgb(28, 2, 58), rgb(2, 27, 141));
-
   color: #fff;
   display: flex;
   /* flex-direction: column; */
@@ -38,9 +37,7 @@ h1 {
 
 .input-box {
   position: relative;
-  /* width: 500px; */
-  width: 100%;
-  max-width: 500px;
+  width: 300px;
   min-height: 150px;
   font-size: 1.5rem;
   background: #fff;
